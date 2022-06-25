@@ -74,7 +74,7 @@ export default function Skills() {
                         <div>
                             <Image
                                 alt="Skills"
-                                src="/data_scientist_3.png"
+                                src="/data_scientist_3.jfif"
                                 width="1139"
                                 height="655"
                             />
