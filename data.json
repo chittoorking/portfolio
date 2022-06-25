@@ -65,6 +65,9 @@
                 "type": "Internship",
                 "startDate": "2022-05-09",
                 "endDate": "Ongoing",
+                "city": "Remote",
+                "state": "",
+                "country": "",
                 "url": "https://www.linkedin.com/company/instaminutes/clouddfn-llp/",
                 "thumbnail": "/instaminutes.jfif"
             },
@@ -74,6 +77,9 @@
                 "type": "Internship",
                 "startDate": "2022-03-08",
                 "endDate": "2022-04-12",
+                "city": "Remote",
+                "state": "",
+                "country": "",
                 "url": "https://www.linkedin.com/company/instaminutes/clouddfn-llp/",
                 "thumbnail": "/instaminutes.jfif"
             }
@@ -94,21 +100,16 @@
         ]
     },
     "about": {
-        "description": "I am a full-stack cross-platform app developer, pursuing my B.E in Computer Engineering from Pune Institute of Computer Technology. I strive to make meaningful applications with the best UI practices.",
+        "description": "Hi! This is Chittoor Vamsi an aspiring Data Scientist with experience in multiple roles in Data Science.Continuous upskilling to excel in my field",
         "picture": "/profile.jpg",
         "social": [
             {
-                "alt": "kaustubh._.o",
-                "icon": "instagram",
-                "link": "https://www.instagram.com/kaustubh._.o/"
-            },
-            {
-                "alt": "KO_272",
+                "alt": "Vamsi Chittoor",
                 "icon": "twitter",
-                "link": "https://twitter.com/KO_272"
+                "link": "https://twitter.com/VamsiChittoor"
             },
             {
-                "alt": "kaustubh#4489",
+                "alt": "Vamsi#6515",
                 "icon": "discord",
                 "link": "https://discord.com/"
             }
