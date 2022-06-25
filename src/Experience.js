@@ -8,7 +8,7 @@ const { experience } = data
 
 const useStyles = makeStyles(theme => ({
     cont: {
-        minHeight: `calc(100vh - ${theme.spacing(4)}px)`,
+        minHeight: `calc(100vh - ${theme.spacing(2)}px)`,
     },
     card: {
         height: '100%',
@@ -20,7 +20,7 @@ const useStyles = makeStyles(theme => ({
         height: '100%',
     },
     expObj: {
-        marginBottom: theme.spacing(4)
+        marginBottom: theme.spacing(2)
     }
 }))
 
@@ -66,7 +66,7 @@ export default function Experience() {
     const animate = useAnimate(animRef)
 
     return (
-        <Grid direction="row" container justify="center" alignItems="center" spacing={10} className={classes.cont}>
+        <Grid direction="row" container justify="center" alignItems="center" spacing={5} className={classes.cont}>
             <Grid item xs={12} lg={6}>
                 <Typography variant="h2" gutterBottom align="center">
                     Experience
