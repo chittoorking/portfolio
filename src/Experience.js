@@ -8,7 +8,7 @@ const { experience } = data
 
 const useStyles = makeStyles(theme => ({
     cont: {
-        minHeight: `calc(100vh - ${theme.spacing(4)}px)`,
+        minHeight: `calc(200vh - ${theme.spacing(4)}px)`,
     },
     card: {
         height: '100%',
