@@ -3,8 +3,8 @@
     "landing": {
         "title": "Hi, I'm Chittoor Vamsi",
         "subtitles": [
-            "Data Scientist Intern👨‍🔬",
-            "Member of Student Academic Council ",
+            "Data Scientist Intern 👨‍🔬",
+            "Member of Student Academic Council IIIT SriCity ",
             "Exploring cloud ☁️"
         ],
         "professionalDetails": [
@@ -33,7 +33,8 @@
             "HTML5",
             "CSS3",
             "JavaScript",
-            "R"
+            "R",
+            "Matlab"
         ],
         "Backend, Database and Cloud": [
             "MongoDB",
@@ -42,7 +43,16 @@
             "Microsoft Azure",
             "Google Cloud",
             "Streamlit"
-        ]
+        ],
+        "Data Science skills":[
+            "Public Speaking",
+            "Machine Learning",
+            "Tableau",
+            "Excel",
+            "Beautiful Soup",
+            "Statistics",
+            "NLP"
+            ]
     },
     "projects": {
         "baseURI": "https://api.github.com/repos/chittoorking/",
