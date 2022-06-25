@@ -96,7 +96,7 @@
                 "city": "",
                 "state": "",
                 "country": "Remote",
-                "url": "https://www.linkedin.com/company/instaminutes/clouddfn-llp/",
+                "url": "https://www.linkedin.com/company/omdena/clouddfn-llp/",
                 "thumbnail": "/omdena.png"
             },
             {
@@ -108,16 +108,64 @@
                 "city": "",
                 "state": "",
                 "country": "Remote",
-                "url": "https://www.linkedin.com/company/instaminutes/clouddfn-llp/",
-                "thumbnail": "/omdena.png"
+                "url": "https://www.linkedin.com/company/myperfectelearning/clouddfn-llp/",
+                "thumbnail": "/perfect_elearning.jpeg"
+            },
+            {
+                "organization": "Microsoft",
+                "role": "Intern",
+                "type": "Internship",
+                "startDate": "Nov 2021",
+                "endDate": "Dec 2021",
+                "city": "",
+                "state": "",
+                "country": "Remote",
+                "url": "https://www.linkedin.com/company/microsoft/clouddfn-llp/",
+                "thumbnail": "/microsoft.png"
+            },
+            {
+                "organization": "The Sparks Foundation",
+                "role": "Intern",
+                "type": "Internship",
+                "startDate": "Nov 2021",
+                "endDate": "Nov 2021",
+                "city": "",
+                "state": "",
+                "country": "Remote",
+                "url": "https://www.linkedin.com/company/the-sparks-foundation/clouddfn-llp/",
+                "thumbnail": "/sparks_foundation.png"
+            },
+            {
+                "organization": "Verzeo",
+                "role": "Campus Ambassador",
+                "type": "Internship",
+                "startDate": "May 2021",
+                "endDate": "Jul 2021",
+                "city": "",
+                "state": "",
+                "country": "Remote",
+                "url": "https://www.linkedin.com/company/verzeo/clouddfn-llp/",
+                "thumbnail": "/sparks_foundation.png"
             }
         ],
         "Volunteer Experience": [
             {
-                "organization": "Student Council IIIT SriCity",
+                "organization": "IIIT SriCity",
                 "role": "Member",
-                "type": "Member",
+                "type": "Student Academic Council",
                 "startDate": "August 2021",
+                "endDate": "Ongoing",
+                "city": "Chittoor",
+                "state": "Andhra Pradesh",
+                "country": "India",
+                "url": "https://www.linkedin.com/school/indian-institute-of-information-technology-sricity/mycompany/pisbieee/",
+                "thumbnail": "/images.png"
+            },
+             {
+                "organization": "IIIT SriCity",
+                "role": "Volunteer",
+                "type": "National Service Scheme",
+                "startDate": "August 2019",
                 "endDate": "Ongoing",
                 "city": "Chittoor",
                 "state": "Andhra Pradesh",
