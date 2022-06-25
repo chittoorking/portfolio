@@ -1,7 +1,3 @@
-# Portfolio
-
-![views](https://githits.vercel.app/api/views?user=kausko&repo=Portfolio&mode=dark&disable=Total)
-
 ## Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
