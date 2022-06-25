@@ -45,7 +45,7 @@
         ]
     },
     "projects": {
-        "baseURI": "https://api.github.com/repos/<your-Github-username>/",
+        "baseURI": "https://api.github.com/repos/chittoorking/",
         "repositories": [
             "Bike-Sharing-Demand-Prediction",
             "PDS_Customer_Segmentation_Project",
