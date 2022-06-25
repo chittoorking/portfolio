@@ -1,34 +1,27 @@
 {
-    "name": "Kaustubh Odak",
+    "name": "Chittoor Vamsi",
     "landing": {
-        "title": "Hi, I'm Kaustubh",
+        "title": "Hi, I'm Chittoor Vamsi",
         "subtitles": [
-            "Full-stack developer 🌐",
-            "Cross-platform developer 📱💻",
-            "Exploring cloud ☁️",
-            "Beginner in devops ♾️",
-            "Just getting started 📈"
+            "Data Scientist Intern👨‍🔬",
+            "Member of Student Academic Council ",
+            "Exploring cloud ☁️"
         ],
         "professionalDetails": [
-            {
-                "alt": "kaustubh-odak",
+         {
+                "alt": "vamsi-chittoor",
                 "icon": "linkedin",
-                "link": "https://www.linkedin.com/in/kaustubh-odak/"
+                "link": "https://www.linkedin.com/in/vamsi-chittoor/"
             },
             {
-                "alt": "kausko",
-                "icon": "stackoverflow",
-                "link": "https://stackoverflow.com/users/15832433/kausko"
-            },
-            {
-                "alt": "kausko",
+                "alt": "chittoorking",
                 "icon": "github",
-                "link": "https://github.com/kausko"
+                "link": "https://github.com/chittoorking/"
             },
             {
                 "alt": "Email",
                 "icon": "gmail",
-                "link": "mailto:iam@kaustubhodak.me,kaustubhodak1@gmail.com"
+                "link": "mailto:chittoorvamsi@gmail.com"
             }
         ]
     },
