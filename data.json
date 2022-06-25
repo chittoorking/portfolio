@@ -26,62 +26,35 @@
         ]
     },
     "skills": {
-        "Languages known": [
-            "JavaScript",
-            "Java",
-            "C++",
+       "Languages known": [
             "Python",
+            "Java",
+            "C",
             "HTML5",
             "CSS3",
-            "TypeScript",
-            "Kotlin",
-            "Dart"
-        ],
-        "Frontend": [
-            "React",
-            "Redux",
-            "Next.js",
-            "Gatsby",
-            "Netlify",
-            "Vercel",
-            "Material-UI",
-            "antdesign",
-            "Bootstrap"
+            "JavaScript",
+            "R"
         ],
         "Backend, Database and Cloud": [
-            "Node.js",
-            "Express",
-            "FastAPI",
             "MongoDB",
             "MySQL",
-            "PostgreSQL",
-            {
-                "alt": "Azure",
-                "icon": "microsoftazure"
-            },
-            "Heroku",
-            "Firebase"
-        ],
-        "Mobile": [
-            {
-                "alt": "React_Native",
-                "icon": "react",
-                "backgroundColor": "#424242"
-            },
-            "Expo",
-            "Android",
-            "Flutter"
+            "SQLite",
+            "Microsoft Azure",
+            "Google Cloud",
+            "Streamlit"
         ]
     },
     "projects": {
-        "baseURI": "https://api.github.com/repos/kausko/",
+        "baseURI": "https://api.github.com/repos/<your-Github-username>/",
         "repositories": [
-            "Genrealize",
-            "Portfolio",
-            "cosmicom",
-            "Discord-Google-Drive-Bot",
-            "GitHits",
-            "1DBM"
+            "Bike-Sharing-Demand-Prediction",
+            "PDS_Customer_Segmentation_Project",
+            "MBSA_project ",
+            "BTP_project ",
+            "Website-Phishing-Detection-Pattern-Recognition",
+            "HeartDiseasePrediction",
+            "SpeechRecognitionUsingSpectograms",
+            "IDA_Project"
         ]
     },
     "experience": {
