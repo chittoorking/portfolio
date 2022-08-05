@@ -49,23 +49,23 @@
             ]
     },
     "projects": {
-        "baseURI": "",
+        "baseURI": "https://api.GitHub.com/chittoorking/repos/",
         "repositories": [
-            "https://api.GitHub.com/chittoorking/repos/Speech-Sentiment-Detection-Using-SpeechRecognition-And-Vader",
-            "https://api.GitHub.com/chittoorking/repos/NLP_projects",
-            "https://api.GitHub.com/chittoorking/repos/NLP_sentiment_analysis",
-            "https://api.GitHub.com/chittoorking/repos/NLP_text_summarization",
-            "https://api.GitHub.com/chittoorking/repos/1stop_projects",
-            "https://api.GitHub.com/chittoorking/repos/AssemblyAI_files_sample",
-            "https://api.GitHub.com/chittoorking/repos/Bike-Sharing-Demand-Prediction",
-            "https://api.GitHub.com/chittoorking/repos/PDS-Customer-Segmentation-Project",
-            "https://api.GitHub.com/chittoorking/repos/Machine-Learning-Project-in-python-Spam-Mail-Prediction-",
-            "https://api.GitHub.com/chittoorking/repos/MBSA_project ",
-            "https://api.GitHub.com/chittoorking/repos/Website-Phishing-Detection-Pattern-Recognition",
-            "https://api.GitHub.com/chittoorking/repos/HeartDiseasePrediction",
-            "https://api.GitHub.com/chittoorking/repos/Machine-Learning-Project-Implementation-of-CIFAR10-",
-            "https://api.GitHub.com/chittoorking/repos/SpeechRecognition-using-Spectrograms",
-            "https://api.GitHub.com/chittoorking/repos/IDA_Project"
+            "Speech-Sentiment-Detection-Using-SpeechRecognition-And-Vader",
+            "NLP_projects",
+            "NLP_sentiment_analysis",
+            "NLP_text_summarization",
+            "repos/1stop_projects",
+            "AssemblyAI_files_sample",
+            "Bike-Sharing-Demand-Prediction",
+            "PDS-Customer-Segmentation-Project",
+            "Machine-Learning-Project-in-python-Spam-Mail-Prediction-",
+            "repos/MBSA_project ",
+            "Website-Phishing-Detection-Pattern-Recognition",
+            "HeartDiseasePrediction",
+            "Machine-Learning-Project-Implementation-of-CIFAR10-",
+            "SpeechRecognition-using-Spectrograms",
+            "IDA_Project"
         ]
     },
     "experience": {
