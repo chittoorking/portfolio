@@ -49,7 +49,7 @@
             ]
     },
     "projects": {
-        "baseURI": "https://api.github.com/repos/chittoorking/",
+        "baseURI": "https://api.github.com/chittoorking/",
         "repositories": [
             "Speech-Sentiment-Detection-Using-SpeechRecognition-And-Vader",
             "NLP_projects",
