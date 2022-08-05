@@ -72,7 +72,7 @@ export default function Landing() {
                         professionalDetails.map(({ alt, icon, link }, i) =>
                             <Grid item key={i}>
                                 <a href={link} target="_blank" rel="noopener noreferrer">
-                                    <Zoom in={true} style={{ transitionDelay: `${100 * i}ms` }}>
+                                    <Zoom in={true} style={{ transitionDelay: `${5 * i}ms` }}>
                                         <Tooltip title={alt} placement="top">
                                             <Avatar variant="rounded" className={clsx([classes.avatar, classes[alt]])}>
                                                 {icon}
