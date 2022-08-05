@@ -20,7 +20,7 @@ const useStyles = makeStyles(theme => ({
 }))
 
 export async function getStaticProps() {
-  const baseURI = ""
+  const baseURI = "https://api.GitHub.com/chittoorking/repos/"
   const repos = projects.repositories
   const reqInit = {
     headers: { 
@@ -77,7 +77,7 @@ export default function Index({ projects, setTheme }) {
       <Container>
         <Landing />
         <Skills />
-//         <Projects data={projects}/>
+        <Projects data={projects}/>
         <Experience/>
         <About/>
       </Container>
