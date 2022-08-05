@@ -51,21 +51,21 @@
     "projects": {
         "baseURI": "https://api.GitHub.com/chittoorking/repos/",
         "repositories": [
-            "Speech-Sentiment-Detection-Using-SpeechRecognition-And-Vader",
-            "NLP_projects",
-            "NLP_sentiment_analysis",
-            "NLP_text_summarization",
-            "repos/1stop_projects",
-            "AssemblyAI_files_sample",
-            "Bike-Sharing-Demand-Prediction",
-            "PDS-Customer-Segmentation-Project",
-            "Machine-Learning-Project-in-python-Spam-Mail-Prediction-",
-            "repos/MBSA_project ",
-            "Website-Phishing-Detection-Pattern-Recognition",
-            "HeartDiseasePrediction",
-            "Machine-Learning-Project-Implementation-of-CIFAR10-",
-            "SpeechRecognition-using-Spectrograms",
-            "IDA_Project"
+           // "Speech-Sentiment-Detection-Using-SpeechRecognition-And-Vader",
+           // "NLP_projects",
+            //"NLP_sentiment_analysis",
+          //  "NLP_text_summarization",
+           // "repos/1stop_projects",
+           // "AssemblyAI_files_sample",
+           // "Bike-Sharing-Demand-Prediction",
+            //"PDS-Customer-Segmentation-Project",
+            //"Machine-Learning-Project-in-python-Spam-Mail-Prediction-",
+            //"repos/MBSA_project ",
+           // "Website-Phishing-Detection-Pattern-Recognition",
+          //  "HeartDiseasePrediction",
+           // "Machine-Learning-Project-Implementation-of-CIFAR10-",
+            //"SpeechRecognition-using-Spectrograms",
+            //"IDA_Project"
         ]
     },
     "experience": {
